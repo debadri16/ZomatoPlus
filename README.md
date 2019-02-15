@@ -1,7 +1,7 @@
 # ZomatoPlus
 Basic Web app using Spring
 
-### Database Connectivity
+### Database Connectivity:
 
 #### Steps to open database
 
