@@ -7,12 +7,12 @@ Basic Web app using Spring
 jdbc:h2:file:zomatoplus
 ```
 
-####Steps to open database
+#### Steps to open database
 
-- Hit this URL while the project is running
+1. Hit the below URL while the project is running
 
 ```
-localhost:8080/database
+- localhost:8080/database
 ```
 
 - asdasd
