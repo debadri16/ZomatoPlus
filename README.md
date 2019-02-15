@@ -4,5 +4,5 @@ Basic Web app using Spring
 ### Database URL
 
 ```
-asdfasd
+jdbc:h2:file:zomatoplus
 ```
