@@ -1,7 +1,7 @@
 # ZomatoPlus
 Basic Web app using Spring
 
-A [thnkxfactor](http://www.thinkxfactor.com/) project
+A [Xfactor](http://www.thinkxfactor.com/) project
 
 ### Database Connectivity:
 
