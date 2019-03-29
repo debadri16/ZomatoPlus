@@ -1,7 +1,7 @@
 # ZomatoPlus
 Basic Web app using Spring
 
-<img src="http://www.thinkxfactor.com/img/xfactorlogo.png" height="40" width="80">
+<img src="https://newsd.in/wp-content/uploads/2019/01/zomato-.jpg" width="213" height="120">
 
 A [Xfactor](http://www.thinkxfactor.com/) project
 
