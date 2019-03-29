@@ -1,7 +1,9 @@
 # ZomatoPlus
 Basic Web app using Spring
 
-A <img src="http://www.thinkxfactor.com/img/xfactorlogo.png" height="40" width="80"> project
+<img src="http://www.thinkxfactor.com/img/xfactorlogo.png" height="40" width="80">
+
+A [Xfactor](http://www.thinkxfactor.com/) project
 
 ### Database Connectivity:
 
